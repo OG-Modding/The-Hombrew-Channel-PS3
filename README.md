@@ -1,4 +1,4 @@
-# The-Hombrew-Channel-PS3-HEN
+# THC-PS3-HEN
 
 Este source requiere ser compilado con true ancestor PKG Repacker o similares para crear el PKG instalable.
 
