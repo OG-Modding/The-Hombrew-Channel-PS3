@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paramsfo add_hidden="false">
+  <param key="ATTRIBUTE" fmt="int32" max_len="4">0</param>
+  <param key="CATEGORY" fmt="utf8" max_len="4">IP</param>
+  <param key="PARENTAL_LEVEL" fmt="int32" max_len="4">0</param>
+  <param key="TITLE" fmt="utf8" max_len="128">TEST</param>
+</paramsfo>
+
