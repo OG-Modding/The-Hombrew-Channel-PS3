@@ -7,4 +7,7 @@ los muestra como en la pestaña de Novedades del menú de la PS3.
 
 Esto es el Source Code, no hay PKG's, los tendrás que poner tú.
 
+
+- Se necesita webMAN MOD o cualquier otro cargador para utilizarlo
+
 *Si haces uso de este repositorio para hacer vuestra propia creación dar creditos y de enlazar con la versión original.
