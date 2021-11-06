@@ -1,4 +1,4 @@
-# THC-PS3-HEN
+# The Homebrew Channel Para PS3
 
 Versión modificada del XMB Mods Collection ISO creada por [0_obeWAN](https://www.psx-place.com/members/0_obewan.16840/).
 
